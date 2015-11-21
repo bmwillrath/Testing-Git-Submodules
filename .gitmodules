@@ -1,0 +1,3 @@
+[submodule "submod-repo"]
+	path = submod-repo
+	url = https://github.com/bmwillrath/submod-repo.git
